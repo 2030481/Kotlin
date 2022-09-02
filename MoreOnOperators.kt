@@ -7,8 +7,19 @@
  * >= check if a>=b (Greater than or equal to)
  */
 fun main() {
-    var number1 = 12.5
-    val number2 = 3.5
-    number1 += number2
-    println("number1")
+	var a = 1
+    val b = 2
+    var result: Boolean
+    result = a == b 
+    println(result)
+    result = a != b 
+    println(result)
+    result = a < b 
+    println(result)
+    result = a > b 
+    println(result)
+    result = a <= b 
+    println(result)
+    result = a >= b 
+    println(result) 
 }
