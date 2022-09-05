@@ -8,3 +8,5 @@ fun main(){
 fun iAmYourNewFunction() {	
     println("i am your new function")
 }
+fun timesTwo(x:Int):Int{
+}
