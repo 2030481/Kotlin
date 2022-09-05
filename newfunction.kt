@@ -1,6 +1,6 @@
 /**
  * function
- * function calling
+ *new function calling
  */
 fun main(){
     iAmYourNewFunction()
