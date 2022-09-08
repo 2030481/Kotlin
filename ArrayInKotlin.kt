@@ -8,5 +8,7 @@ fun main() {
     val charArray = arrayOf<char>('a','b','c','d','e')
     val i = 1
     val otherArray = arrayOf<char>('l','m','n','o','p')
+    
+    
     charArray = otherArray
 }
