@@ -1,6 +1,6 @@
 /**
  *Array in Kotlin
- * Array
+ * Array is a collection of similar data types
  */
 fun main() {
 
