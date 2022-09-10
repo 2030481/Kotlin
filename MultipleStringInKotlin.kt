@@ -4,6 +4,8 @@ fun main(args: Array<String>) {
         |name
         |is
         |Yash
+        |Raj
+        |Movies
     """.trimMargin()
     println(str)
 }
