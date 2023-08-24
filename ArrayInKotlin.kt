@@ -1,5 +1,5 @@
 /**
- *Array in Kotlin rv
+ *Array in Kotlin 
  * Array is a collection of similar data types
  *Array is one of the most fundamental data structure in practically all programming languages. 
  *The idea behind an array is to store multiple items of the same data-type,such as an integer or string under a single variable name.
